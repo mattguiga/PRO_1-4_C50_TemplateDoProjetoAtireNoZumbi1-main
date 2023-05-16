@@ -70,3 +70,4 @@ function draw() {
 drawSprites();
 
 }
+console.log("teste")
